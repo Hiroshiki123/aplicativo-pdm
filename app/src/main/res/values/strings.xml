@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">tap food</string>
+    <string name="status">status</string>
+    <string name="receita1">Olhe as receitas que nossos monstros foram inspirados.</string>
+    <string name="batata">batata</string>
+    <string name="sorvete">sorvete</string>
+    <string name="voltar">voltar</string>
+    <string name="historia1">O mundo foi assolado por diversas catástrofes. As deliciosas comidas feitas pelos humanos se tornaram monstros gigantescos.</string>
+    <string name="historia2">Sua missão é derrotar essas criaturas e encher a barriga dos que precisam, a partir de hoje você é um chef.</string>
+    <string name="inspiracao">Inspiração</string>
+    <string name="Jogar">Jogar</string>
+    <string name="criadores">criadores</string>
+    <string name="nomes">Thiago e Henri</string>
+    <string name="cactocareca">cactocareca</string>
+    <string name="henritubosaka">henritubosaka</string>
+    <string name="dano">O dano é o quão forte é seu ataque, ele pode aumentar conforme a vida do inimigo diminui</string>
+    <string name="melhorar">melhorar</string>
+    <string name="crit1">Aumente seu dano usando os pontos de combate</string>
+    <string name="crit2">Ganhe pontos de combate ao derrotar os monstros</string>
+    <string name="pontosdispo">pontos disponiveis:</string>
+    <string name="creditos">créditos</string>
+    <string name="receitas">recitas</string>
+    <string name="historia">historia</string>
+    <string name="atacar">atacar</string>
+    <string name="filme">Ta chovendo hamburger</string>
+    <string name="receita3">Os botões levarão a um site das receitas</string>
+    <string name="dados">Os dados do jogo resetam ao sair da tela de jogo</string>
+    <string name="dano2">derrote o mosntro!!!</string>
+
+</resources>
